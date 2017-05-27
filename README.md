@@ -139,3 +139,4 @@ You can create nested ordered and unordered combination lists by indenting lines
 <br>
 
 If a task list item description begins with a parenthesis, you'll need to escape it with `\`:
+- [ ] \(Optional) Open a followup issue
