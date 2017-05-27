@@ -49,3 +49,10 @@ http://blog.csdn.net/kaitiren/article/details/38513715
 * 编程语言
     * 脚本语言
         * Python  
+
+#### 缩进
+>数据结构
+>>树
+>>>二叉树
+>>>>平衡二叉树
+>>>>>满二叉树  
