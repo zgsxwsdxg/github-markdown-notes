@@ -99,3 +99,9 @@ https://help.github.com/articles/getting-started-with-writing-and-formatting-on-
 https://help.github.com/articles/basic-writing-and-formatting-syntax/#headings <br> 
 
 Use `git status` to list all new or modified files that haven't yet been committed.
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
