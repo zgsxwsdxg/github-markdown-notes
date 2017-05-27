@@ -108,3 +108,7 @@ git status
 git add
 git commit
 ```
+##### Lists
+- George Washington
+- John Adams
+- Thomas Jefferson
