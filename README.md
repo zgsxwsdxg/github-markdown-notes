@@ -39,7 +39,6 @@ http://blog.csdn.net/kaitiren/article/details/38513715
 #### 文字超链接
 [来自博客](http://blog.csdn.net/kaitiren/article/details/38513715 "悬停显示")
 
-
 #### 圆点符
 要注意的是星号* 后面要有一个空格。否则显示为普通星号。上文的显示效果如图：
 * 昵称：果冻虾仁
@@ -65,3 +64,7 @@ http://blog.csdn.net/kaitiren/article/details/38513715
 有时候我们想显示一个GitHub仓库(或者说项目)里的图片而不是一张其他来源网络图片，因为其他来源的URL很可能会失效。那么如何显示一个GitHub项目里的图片呢？<br>
 其实与上面的格式基本一致的，所不同的就是括号里的URL该怎么写。<br>
 https://github.com/ 你的用户名 / 你的项目名 / raw / 分支名 / 存放图片的文件夹 / 该文件夹下的图片
+
+##### 给图片加上超链接
+[![baidu]](http://baidu.com)  
+[baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo"
