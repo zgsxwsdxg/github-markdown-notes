@@ -113,7 +113,7 @@ You can make a list by preceding one or more lines of text with `-` or `*`.
 - George Washington
 - John Adams
 - Thomas Jefferson
-To order your list, precede each line with a number.
+To order your list, precede each line with a number.<br>
 1. James Madison
 1. James Monroe
 1. John Quincy Adams
