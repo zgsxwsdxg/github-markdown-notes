@@ -19,7 +19,7 @@
 这是一段普通的文本，<br>
 直接回车不能换行，<br>
 要使用\<br>
-注意第三行的<br>前加了反斜杠 \ 。目的就是像其他语言那样实现转义
+注意第三行的\<br>前加了反斜杠 \ 。目的就是像其他语言那样实现转义
 http://blog.csdn.net/kaitiren/article/details/38513715
 #### 单行文本
     使用两个Tab符实现单行文本。
@@ -40,7 +40,7 @@ http://blog.csdn.net/kaitiren/article/details/38513715
 [来自博客](http://blog.csdn.net/kaitiren/article/details/38513715 "悬停显示")
 
 #### 标题超链接
-[标题超链接](##### Emphasis)
+[标题超链接](#####Emphasis)
 
 #### 圆点符
 要注意的是星号* 后面要有一个空格。否则显示为普通星号。上文的显示效果如图：
