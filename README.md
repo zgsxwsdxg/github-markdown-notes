@@ -115,9 +115,11 @@ You can make a list by preceding one or more lines of text with `-` or `*`.
 - Thomas Jefferson
 <br>
 To order your list, precede each line with a number.
+
 1. James Madison
 1. James Monroe
 1. John Quincy Adams
 <br>
+
 You can create nested ordered and unordered combination lists by indenting lines by four spaces.
 
