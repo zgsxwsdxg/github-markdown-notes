@@ -81,5 +81,5 @@ int main(int argc, char*argv[]){} // c
 echo 'Hello,World.' # bash
 ```
 ``` cpp
-string & operator+(const string& A,const string& B)
+string & operator+(const string& A,const string& B) // cpp
 ```
