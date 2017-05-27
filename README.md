@@ -84,4 +84,11 @@ echo 'Hello,World.' # bash
 string & operator+(const string& A,const string& B) // cpp
 ```
 
-##### 在GitHub上用Gist写日记吧
+##### Emphasis
+Emphasis, aka italics, with *asterisks* or _underscores_.
+
+Strong emphasis, aka bold, with **asterisks** or __underscores__.
+
+Combined emphasis with **asterisks and _underscores_**.
+
+Strikethrough uses two tildes. ~~Scratch this.~~
