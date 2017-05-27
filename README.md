@@ -38,7 +38,7 @@ http://blog.csdn.net/kaitiren/article/details/38513715
 
 #### 文字超链接
 [来自博客](http://blog.csdn.net/kaitiren/article/details/38513715 "悬停显示")
-
+[标题超链接](##### Emphasis)
 #### 圆点符
 要注意的是星号* 后面要有一个空格。否则显示为普通星号。上文的显示效果如图：
 * 昵称：果冻虾仁
