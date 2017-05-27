@@ -136,3 +136,6 @@ You can create nested ordered and unordered combination lists by indenting lines
 - [x] Finish my changes
 - [ ] Push my commits to GitHub
 - [ ] Open a pull request
+<br>
+
+If a task list item description begins with a parenthesis, you'll need to escape it with `\`:
