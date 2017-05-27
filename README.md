@@ -92,3 +92,8 @@ Strong emphasis, aka bold, with **asterisks** or __underscores__.
 Combined emphasis with **asterisks and _underscores_**.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
+
+https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet
+https://help.github.com/categories/writing-on-github/
+https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/
+https://help.github.com/articles/basic-writing-and-formatting-syntax/#headings
