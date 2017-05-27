@@ -20,7 +20,7 @@
 直接回车不能换行，<br>
 要使用\<br>
 注意第三行的<br>前加了反斜杠 \ 。目的就是像其他语言那样实现转义
-
+http://blog.csdn.net/kaitiren/article/details/38513715
 #### 单行文本
     使用两个Tab符实现单行文本。
     Hello,大家好，我是果冻虾仁。  
