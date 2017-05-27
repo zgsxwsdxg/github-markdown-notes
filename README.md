@@ -97,3 +97,5 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet <br>
 https://help.github.com/categories/writing-on-github/ <br>
 https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/ <br>
 https://help.github.com/articles/basic-writing-and-formatting-syntax/#headings <br> 
+
+Use `git status` to list all new or modified files that haven't yet been committed.
