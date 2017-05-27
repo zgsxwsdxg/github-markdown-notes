@@ -83,3 +83,5 @@ echo 'Hello,World.' # bash
 ``` cpp
 string & operator+(const string& A,const string& B) // cpp
 ```
+
+##### 在GitHub上用Gist写日记吧
