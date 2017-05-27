@@ -56,3 +56,7 @@ http://blog.csdn.net/kaitiren/article/details/38513715
 >>> 二叉树
 >>>> 平衡二叉树
 >>>>> 满二叉树  
+
+#### 插入图片
+##### 来源于网络的图片
+![](http://www.baidu.com/img/bdlogo.gif)
