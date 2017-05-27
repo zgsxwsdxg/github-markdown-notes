@@ -80,3 +80,6 @@ int main(int argc, char*argv[]){} // c
 ``` Bash
 echo 'Hello,World.' # bash
 ```
+``` cpp
+string & operator+(const string& A,const string& B)
+```
