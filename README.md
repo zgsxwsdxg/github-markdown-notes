@@ -109,6 +109,7 @@ git add
 git commit
 ```
 ##### Lists
+You can make a list by preceding one or more lines of text with `-` or `*`.
 - George Washington
 - John Adams
 - Thomas Jefferson
