@@ -78,5 +78,5 @@ public static void main(String[] args){} // java
 int main(int argc, char*argv[]){} // c
 ``` 
 ``` bash
-echo 'Hello,World.'
+echo 'Hello,World.' # bash
 ```
