@@ -25,3 +25,9 @@
     
 Thank `You`. Please `Call` Me `Coder`
 <br>[来自博客](http://blog.csdn.net/kaitiren/article/details/38513715 "悬停显示")
+
+
+#### 圆点符
+* 昵称：果冻虾仁
+* 别名：隔壁老王
+* 英文名：Jelly  
