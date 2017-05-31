@@ -1,3 +1,5 @@
+<img src="http://www.baidu.com/img/bdlogo.gif" width=25% align="right" />
+
 大标题
 ====
 
